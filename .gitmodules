@@ -1,0 +1,6 @@
+[submodule "configs/neovim/nvim"]
+	path = configs/neovim/nvim
+	url = https://github.com/Eshoej/.config-nvim
+[submodule "configs/alacritty"]
+	path = configs/alacritty
+	url = https://github.com/Eshoej/.config-alacritty
