@@ -7,9 +7,6 @@
 [submodule "configs/i3/.config/i3"]
 	path = configs/i3/.config/i3
 	url = https://github.com/eshoej/.config-i3
-[submodule "configs/i3blocks/.config/i3blocks"]
-	path = configs/i3blocks/.config/i3blocks
-	url = https://github.com/eshoej/.config-i3blocks
 [submodule "configs/picom/.config/picom"]
 	path = configs/picom/.config/picom
 	url = https://github.com/eshoej/.config-picom
