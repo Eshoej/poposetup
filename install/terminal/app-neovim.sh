@@ -11,7 +11,7 @@ if [ ! -d "$HOME/.config/nvim" ]; then
     git clone --depth 1 https://github.com/wbthomason/packer.nvim\
     ~/.local/share/nvim/site/pack/packer/start/packer.nvim
     mkdir -p ~/.config/nvim
-    cp -r  ~/.local/share/poposetup/configs/neovim/nvim ~/.config
+    cp -r  ~/.local/share/poposetup/configs/neovim/.config/nvim ~/.config
 fi
 
 # TODO Add desktop icon for alacritty

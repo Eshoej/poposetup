@@ -40,6 +40,6 @@ remaining=$(cat /usr/share/X11/xkb/rules/evdev.xml | tail -$tail_lines)
 echo "$up_to
 $dvorak_env
 $remaining
-" > /usr/share/X11/xkb/rules/evdev.xml
+" | sudo tee -a /usr/share/X11/xkb/rules/evdev.xml
 
 echo "don't forget to log out to let these changes take effect"

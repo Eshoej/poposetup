@@ -2,7 +2,7 @@ cat <<EOF >~/.local/share/applications/Alacritty.desktop
 [Desktop Entry]
 Name=Alacritty
 Comment=A fast, cross-platform, OpenGL terminal emulator
-Exec=/home/eshoej/.cargo/bin/alacritty
+Exec=/home/mdue/.cargo/bin/alacritty
 Icon=alacritty
 Terminal=false
 Type=Application
